@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/logo.svg" alt="logo" width="50%">
+<img src="https://raw.githubusercontent.com/carloscdf/carloscdf/150de9130ca1f55144b726f97599db731a0e0f1f/assets/logo.svg" alt="logo" width="30%">
 </p>
 <br>
-<h2 align="center"> Hey Guys</h2>
+<h3> Hey Guys</h3>
 
 
 <p>I'm 16-years-old graphic designer and front-end engineer amateur from Brazil, I like to build beautiful and functional things. I usually create websites with CSS and HTML but I'm learning other languages like C++, Javascript, Python and PHP. 
