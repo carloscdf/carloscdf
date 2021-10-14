@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="21.077995"
-     inkscape:cy="4.3564094"
+     inkscape:zoom="1.4"
+     inkscape:cx="10.285601"
+     inkscape:cy="77.401075"
      inkscape:document-units="mm"
      inkscape:current-layer="g1707"
      showgrid="false"
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,7 +58,7 @@
        id="g2376"
        transform="translate(-49.622046,90.5015)">
       <rect
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:coffekan;-inkscape-font-specification:coffekan;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#ec0e18;fill-opacity:1;stroke:none;stroke-width:0.82855469;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:coffekan;-inkscape-font-specification:coffekan;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#e44d26;fill-opacity:1;stroke:none;stroke-width:0.82855469;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843"
          id="rect1336"
          width="26.243799"
          height="9.4967346"
@@ -80,7 +80,7 @@
              id="path1346"
              transform="matrix(5.5414647,0,0,5.5414647,3096.8454,-2915.8869)"
              d="m -728.51172,567.28711 0.60352,6.66211 h 4.92187 v 0.004 h 2.71875 l -0.25586,2.86524 -2.45898,0.6582 -2.46094,-0.6582 -0.1543,-1.76172 h -2.21484 l 0.31055,3.46094 4.52539,1.26172 v -0.0117 l 4.50586,-1.25 0.60742,-6.76758 h -5.11328 -0.01 -2.90234 l -0.20508,-2.25781 h 3.10742 0.01 5.3125 l 0.20312,-2.20508 h -5.51562 -0.01 z"
-             style="fill:#ec0e18;fill-opacity:0.99215686;stroke:none;stroke-width:0.02379361"
+             style="fill:#e44d26;fill-opacity:0.99215686;stroke:none;stroke-width:0.02379361"
              inkscape:connector-curvature="0" />
         </g>
         <g

@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="21.077995"
-     inkscape:cy="4.3564094"
+     inkscape:zoom="2.8"
+     inkscape:cx="-36.745352"
+     inkscape:cy="-33.610146"
      inkscape:document-units="mm"
      inkscape:current-layer="g1640"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,7 +62,7 @@
          height="9.4967346"
          width="19.195292"
          id="rect1396"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:coffekan;-inkscape-font-specification:coffekan;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#ec0e18;fill-opacity:1;stroke:none;stroke-width:0.70860666;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1.25;font-family:coffekan;-inkscape-font-specification:coffekan;letter-spacing:0px;word-spacing:0px;opacity:0.98999999;fill:#00599c;fill-opacity:1;stroke:none;stroke-width:0.70860666;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99607843" />
       <g
          transform="matrix(1.4126079,0,0,1.4126079,306.94114,87.211824)"
          id="g1640">
@@ -95,31 +95,31 @@
              inkscape:connector-curvature="0" />
           <g
              id="g1424"
-             style="fill:#ec0e18;fill-opacity:0.99215686;stroke:none"
+             style="fill:#00599c;fill-opacity:0.99215686;stroke:none"
              transform="matrix(0.42443154,0,0,0.42443154,145.55056,-47.674554)">
             <path
                id="path1422"
                d="m 153,274.175 c -56.243,0 -102,-45.757 -102,-102 0,-56.243 45.757,-102 102,-102 36.292,0 70.139,19.53 88.331,50.968 l -44.143,25.544 C 188.083,130.951 171.15,121.175 153,121.175 c -28.122,0 -51,22.878 -51,51 0,28.121 22.878,51 51,51 18.152,0 35.085,-9.776 44.191,-25.515 l 44.143,25.543 c -18.192,31.441 -52.04,50.972 -88.334,50.972 z"
                inkscape:connector-curvature="0"
-               style="fill:#ec0e18;fill-opacity:0.99215686;stroke:none" />
+               style="fill:#00599c;fill-opacity:0.99215686;stroke:none" />
           </g>
           <g
              id="g1428"
-             style="fill:#ec0e18;fill-opacity:0.99215686;stroke:none"
+             style="fill:#00599c;fill-opacity:0.99215686;stroke:none"
              transform="matrix(0.42443154,0,0,0.42443154,145.55056,-47.674554)">
             <polygon
                id="polygon1426"
                points="232.334,155.175 232.334,166.508 221,166.508 221,177.841 232.334,177.841 232.334,189.175 243.666,189.175 243.666,177.841 255,177.841 255,166.508 243.666,166.508 243.666,155.175 "
-               style="fill:#ec0e18;fill-opacity:0.99215686;stroke:none" />
+               style="fill:#00599c;fill-opacity:0.99215686;stroke:none" />
           </g>
           <g
              id="g1432"
-             style="fill:#ec0e18;fill-opacity:0.99215686;stroke:none"
+             style="fill:#00599c;fill-opacity:0.99215686;stroke:none"
              transform="matrix(0.42443154,0,0,0.42443154,145.55056,-47.674554)">
             <polygon
                id="polygon1430"
                points="274.834,155.175 274.834,166.508 263.5,166.508 263.5,177.841 274.834,177.841 274.834,189.175 286.166,189.175 286.166,177.841 297.5,177.841 297.5,166.508 286.166,166.508 286.166,155.175 "
-               style="fill:#ec0e18;fill-opacity:0.99215686;stroke:none" />
+               style="fill:#00599c;fill-opacity:0.99215686;stroke:none" />
           </g>
         </g>
       </g>
