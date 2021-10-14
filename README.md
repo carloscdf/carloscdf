@@ -1,11 +1,10 @@
-<img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/logo.svg" alt="logo" width="35%" align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/logo.svg" alt="logo" width="25%">
+</p>
+<br>
+<br>
 
-
-
-
-
-<h3 align="center"> Hey Guys</h3>
-
+<h2 align="center"> Hey Guys</h2>
 
 
 <p>I'm 16-years-old graphic designer and front-end engineer amateur from Brazil, I like to build beautiful and functional things. I usually create websites with CSS and HTML but I'm learning other languages like C++, Javascript, Python and PHP. 
@@ -15,9 +14,9 @@ I'm a programming baby but I want to grow and become a magnificent developer.</p
 
 
 
-<h3 align="center">Progress</h3>
+<h3>Progress</h3>
 
 
-
-<p align="center"><img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/html5-button.svg" alt="html5" ><img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/css3-button.svg" alt="css3"><img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/cplusplus-button.svg" alt="c++"><img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/javascript-button.svg" alt="javascript"></p>
-
+<p>
+<img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/html5-button.svg" alt="html5" > <img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/css3-button.svg" alt="css3"> <img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/cplusplus-button.svg" alt="c++"> <img src="https://raw.githubusercontent.com/carloscdf/carloscdf/c3f00591968735e7c7d32dcbf0daf04112caebec/assets/javascript-button.svg" alt="javascript">
+</p>
