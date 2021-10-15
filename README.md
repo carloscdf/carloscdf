@@ -30,8 +30,13 @@ I'm a programming baby but I want to grow and become a magnificent developer.</p
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscdf&hide=contribs,prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscdf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-(project link: https://github.com/anuraghazra/github-readme-stats)
+<p align="center">(project link: https://github.com/anuraghazra/github-readme-stats)</p>
 
 
+**Social:**
+<p>
+  <a href="https://instagram.com/byswitzer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.behance.net/switzer"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://dribbble.com/byswitzerr"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+</p>
 
 
+---
