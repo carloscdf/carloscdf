@@ -1,11 +1,8 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/carloscdf/carloscdf/ac15d2db19000b37ac77d1f4b726988d593a2d95/assets/logo.svg" alt="logo" width="30%">
-</p>
 
----
+
+# Hey buddy :call_me_hand:
 
 <div align="center">
-  
 **About me**
 
 </div>
@@ -16,8 +13,8 @@
 I'm a programming baby but I want to grow and become a magnificent developer.</p>
 <p>
 
-  ---
-  
+---
+
 **Progress:**
 
 
@@ -37,6 +34,3 @@ I'm a programming baby but I want to grow and become a magnificent developer.</p
 <p>
   <a href="https://instagram.com/byswitzer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.behance.net/switzer"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a> <a href="https://dribbble.com/byswitzerr"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></a>
 </p>
-
-
----
