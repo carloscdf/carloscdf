@@ -1,4 +1,4 @@
-**About me**
+**About me**:
 
 * :briefcase: Designer at [Switzer](instagram.com/byswitzer)
 * :heart: I love Web Design
@@ -8,10 +8,8 @@
 
 **Progress:**
 
-<p>
-<img src="https://raw.githubusercontent.com/carloscdf/carloscdf/dfc4a450736909fd2dd574fd7f43aa9241a5b8f8/assets/javascript-button.svg" alt="javascript">
-<img src="https://raw.githubusercontent.com/carloscdf/carloscdf/dfc4a450736909fd2dd574fd7f43aa9241a5b8f8/assets/html5-button.svg" alt="html5" > <img src="https://raw.githubusercontent.com/carloscdf/carloscdf/dfc4a450736909fd2dd574fd7f43aa9241a5b8f8/assets/css3-button.svg" alt="css3"> <img src="https://raw.githubusercontent.com/carloscdf/carloscdf/dfc4a450736909fd2dd574fd7f43aa9241a5b8f8/assets/cplusplus-button.svg" alt="c++">
-</p>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
 
 
 **Social:**
