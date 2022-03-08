@@ -1,9 +1,3 @@
-**About me:**
-
-* :briefcase: Designer at [Switzer](https://www.instagram.com/byswitzer/)
-* :heart: I love Web Design
-* :book:  Always trying to learn more
-
 **Stats:**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloscdf&hide=contribs,prs&show_icons=true&theme=nord)
