@@ -4,7 +4,7 @@
 <br/>
 <li>👨‍💻 Front-End Developer
 <li>💡 Learning JavaScript, PHP and Python
-<li>🎨 Graphic Designer at <a href="https://www.instagram.com/byswitzer/">Switzer</a>
+<li>🎨 Graphic Designer and CEO at <a href="https://www.instagram.com/byswitzer/">Switzer</a>
 <li>💬 You can ask me about anything <a href="https://github.com/carloscdf/carloscdf/issues">here</a>
   <br/>
 
