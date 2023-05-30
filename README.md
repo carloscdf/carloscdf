@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=5000&color=E34F26&vCenter=true&width=435&lines=Yup%2C+I'm+Carlos!+%F0%9F%A6%8A)](https://git.io/typing-svg)
-
-<hr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&pause=1000&color=798EC8&vCenter=true&width=900&height=20&lines=Yup%2C+I'm+Carlos!)](https://git.io/typing-svg)
+ ##
 <br/>
 <li>👨‍💻 Front-End Developer
 <li>🧑‍💻🔧 Intermediate Back-End Developer
