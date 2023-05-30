@@ -3,6 +3,7 @@
 <hr>
 <br/>
 <li>👨‍💻 Front-End Developer
+<li>🧑‍💻🔧 Intermediate Back-End Developer
 <li>💡 Learning JavaScript, PHP and Python
 <li>🎨 CEO and Graphic Designer at <a href="https://www.instagram.com/byswitzer/">Switzer</a>
 <li>💬 You can ask me about anything <a href="https://github.com/carloscdf/carloscdf/issues">here</a>
@@ -22,6 +23,8 @@
 <a href="https://github.com/carloscdf"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://github.com/carloscdf"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
  <a href="https://github.com/carloscdf"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+  <a href="https://github.com/carloscdf"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
+    
 </div>
 
 
@@ -30,8 +33,7 @@
 <div align="justify">
 
   **Social:**
-
-<a href="mailto:henrique.duplex@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  
 <a href="https://www.instagram.com/byswitzer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
