@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&pause=1000&color=798EC8&vCenter=true&width=900&height=20&lines=Yup%2C+I'm+Carlos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Product+Sans&weight=500&size=32&duration=2000&pause=1000&color=2581F7&width=435&lines=Yup%2C+I'm+Carlos!)](https://git.io/typing-svg)
+
  ##
 <br/>
 <li>👨‍💻 Front-End Developer
