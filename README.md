@@ -5,7 +5,7 @@
 <li>👨‍💻 Front-End Developer
 <li>🧑‍💻🔧 Intermediate Back-End Developer
 <li>💡 Learning JavaScript, PHP and Python
-<li>🎨 CEO and Graphic Designer at <a href="https://www.instagram.com/byswitzer/">Switzer</a>
+<li>🎨 Instagram <a href="https://www.instagram.com/bycarlosnascimento/">Carlos Nascimento</a>
 <li>💬 You can ask me about anything <a href="https://github.com/carloscdf/carloscdf/issues">here</a>
   <br/>
 
