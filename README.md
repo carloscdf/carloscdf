@@ -2,8 +2,8 @@
 
  ##
 <br/>
-<li>👨‍💻 Front-End Developer
-<li>🧑‍💻🔧 Intermediate Back-End Developer
+<li>👨‍💻🎨 Front-End Developer Junior
+<li>🧑‍💻🔧 Back-End Developer Junior
 <li>💡 Learning JavaScript, PHP and Python
 <li>🎨 Instagram <a href="https://www.instagram.com/bycarlosnascimento/">Carlos Nascimento</a>
 <li>💬 You can ask me about anything <a href="https://github.com/carloscdf/carloscdf/issues">here</a>
