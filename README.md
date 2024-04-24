@@ -9,15 +9,7 @@
 <li>💬 You can ask me about anything <a href="https://github.com/carloscdf/carloscdf/issues">here</a>
   <br/>
 
-  **Stats:**
-
-<div align="justify">
-  <a href="https://github.com/carloscdf" target="_blank">
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=carloscdf&hide=contribs,prs&show_icons=true&theme=nord"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloscdf&layout=compact&theme=nord"/></a>
-</div>
-
-  <br/>
+  **Technologies:**
 
   <div display="flex">
    <a href="https://github.com/carloscdf"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/></a>
@@ -29,12 +21,11 @@
 </div>
 
 
-  ##
 
 <div align="justify">
-
+ 
   **Social:**
-  
+
 <a href="https://www.instagram.com/bycarlosnascimento/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
