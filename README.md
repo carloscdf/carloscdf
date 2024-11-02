@@ -1,18 +1,18 @@
 <table>
  <tr>
   <td align="center"><img src="https://custom-doodle.com/wp-content/uploads/doodle/pokemon-mew-pixel/pokemon-mew-pixel-doodle.gif" width="60px"></td>
-  <td colspan="2"><h4>Hey 👋, I'm Carlos Nascimento!</h4></td>
+  <td colspan="2"><h3>Hey 👋, I'm Carlos Nascimento!</h3></td>
  </tr>
  <tr>
   <td colspan="3" align="center"><h5><a href="https://www.linkedin.com/in/bycarlos//" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a><a href="https://www.instagram.com/bycarlosnascimento/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></h5></td>
  </tr>
  <tr>
-  <td>Tech & Tools</td>
+  <td><h4>Tech & Tools</h4></td>
   <td colspan="2"><div display="flex"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div></td>
  </tr>
  <tr>
-  <td>Learning</td>
+  <td><h4>Learning</h4></td>
   <td colspan="2"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></td>
  </tr>
  <tr>
