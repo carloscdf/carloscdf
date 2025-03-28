@@ -20,10 +20,10 @@
  </tr>
  <tr>
   <td>
-   <a target="_blank" href="https://www.onibusjequie.com.br/">Onibus Jequié</a>
+   <a target="_blank" href="https://github.com/carloscdf/LocaCEP">LocaCEP</a>
   </td>
-  <td>This website centralizes information about bus schedules in Jequié City.</td>
-  <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
+  <td>Simple project for address lookup through brazilian CEP code (ZIP) using Angular and API consumption.</td>
+  <td><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/></td>
  </tr>
  <td colspan="3" align="center" ><h4>Education</h4></td>
  </tr>
