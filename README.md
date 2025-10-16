@@ -20,7 +20,7 @@
  <tr>
    </tr>
   <td align="center"><img src="https://18122004.vercel.app/assets/logos/cepedi.png" width="50px"/></td>
-  <td>Full-Stack Software Residence - In progress</td>
+  <td>Full-Stack Software Residence - Completed 2025</td>
   <td>RESTIC36 CEPEDI</td>
  </tr>
   <td align="center"><img src="https://18122004.vercel.app/assets/logos/uesb.png" width="50px"/></td>
