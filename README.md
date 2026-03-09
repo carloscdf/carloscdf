@@ -19,13 +19,13 @@
  </tr>
  <tr>
    </tr>
+   <td align="center"><img src="https://carlosnascimento.is-a.dev/logos/uesb.png" width="50px"/></td>
+  <td>Computer Information Systems - In progress</td>
+  <td>Universidade Estadual do Sudoeste da Bahia</td>
+ </tr>
   <td align="center"><img src="https://carlosnascimento.is-a.dev/logos/cepedi.png" width="50px"/></td>
   <td>Full-Stack Software Residence - Completed in 2025</td>
   <td>RESTIC36 CEPEDI</td>
- </tr>
-  <td align="center"><img src="https://carlosnascimento.is-a.dev/logos/uesb.png" width="50px"/></td>
-  <td>Computer Information Systems - In progress</td>
-  <td>Universidade Estadual do Sudoeste da Bahia</td>
   <tr>
   <td align="center"><img src="https://carlosnascimento.is-a.dev/logos/ifba.png" width="50px"/></td>
   <td>Informatic Associate Degree - Completed in 2023</td>
