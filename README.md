@@ -4,7 +4,7 @@
   <td colspan="2"><h3>Hey 👋, I'm Carlos Nascimento!</h3></td>
  </tr>
  <tr>
-  <td colspan="3" align="center"><h5><a href="https://www.linkedin.com/in/bycarlos//" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
+  <td colspan="3" align="center"><a href="https://www.linkedin.com/in/bycarlos//" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a></td>
  </tr>
  <tr>
   <td><h4>Tech & Tools</h4></td>
